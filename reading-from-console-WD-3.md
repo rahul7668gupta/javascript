@@ -1,5 +1,7 @@
 Reading two nos from console and checking if the sum is even or odd.
 
+Please execute this on console first: ```npm i console-read-write```
+
 ```
 const io = require('console-read-write');
 
